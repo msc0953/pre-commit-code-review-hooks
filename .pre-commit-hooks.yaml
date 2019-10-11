@@ -1,5 +1,5 @@
--   id: check-added-large-files
-    name: Check for added large files
-    description: Prevent giant files from being committed
-    entry: check-added-large-files
+-   id: check-robotframework-files
+    name: Check for robotframework files
+    description: Checking Coding Sytle for robot files
+    entry: check-robotframework-files
     language: python
