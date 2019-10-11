@@ -3,3 +3,4 @@
     description: Checking Coding Sytle for robot files
     entry: check-robotframework-files
     language: python
+    types: [file]
