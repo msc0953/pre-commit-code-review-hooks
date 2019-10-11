@@ -7,6 +7,6 @@ repos:
     -   id: trailing-whitespace
 
 -   repo: https://github.com/msc0953/pre-commit-code-review-hooks
-    rev: v1.0.0
+    rev: 0ac204ef1f17e64cbf41302c7b6b795895273d4a
     hooks:
     -   id: check-robotframework-files
